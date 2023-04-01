@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **INVO _ The invoice management website**
 
-- 🌱 I’m currently learning **Mongodb**
+- 🌱 I’m currently learning **JavaScript**
 
 - 📫 How to reach me **nikhitkumar00@gmail.com**
 
