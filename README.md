@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **INVO _ The invoice management website**
 
-- 🌱 I’m currently learning **React Framework**
+- 🌱 I’m currently learning **React Library**
 
 - 📫 How to reach me **nikhitkumar00@gmail.com**
 
