@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
+  <img width="100%" src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif"  />
 </div>
 
 ###
@@ -107,10 +107,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nikhitkumar00&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=github_dark&hide_border=true&order=2" height="250" alt="languages graph" /> <br>
   <img src="https://streak-stats.demolab.com?user=nikhitkumar00&locale=en&mode=weekly&theme=github_dark&hide_border=true&border_radius=5&date_format=M j[, Y]&order=3" height="250" alt="streak graph"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/nikhitkumar00/nikhitkumar00/output/snake.svg" alt="Snake animation" />
 
 ###
 
