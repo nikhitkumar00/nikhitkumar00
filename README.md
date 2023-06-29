@@ -27,11 +27,11 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hey there 👋</h1>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h2 align="left">👩‍💻  About Me</h2>
 
 ###
 
@@ -39,7 +39,7 @@
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h2 align="left">🛠 Language and tools</h2>
 
 ###
 
@@ -104,9 +104,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nikhitkumar00&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=github_dark&hide_border=true&order=2" height="250" alt="languages graph" /> 
-  <br>
   <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" height="250" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nikhitkumar00&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=github_dark&hide_border=true&order=2" height="250" alt="languages graph" /> 
   <br>
   <img src="https://streak-stats.demolab.com?user=nikhitkumar00&locale=en&mode=weekly&theme=github_dark&hide_border=true&border_radius=5&date_format=M j[, Y]&order=3" height="250" alt="streak graph"  />
 </div>
