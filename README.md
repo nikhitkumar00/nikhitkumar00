@@ -27,19 +27,21 @@
 
 ###
 
-<h1 align="center">Hey there 👋</h1>
+<h1 align="center">Hey there... <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" height="30" /></h1><br>
 
 ###
 
-<h2 align="left">👩‍💻  About Me</h2>
+<h2 align="left">👩‍💻  About Me</h2><br>
 
 ###
 
 <p align="left">🔭 I’m currently working on INVO - Invoice Management Website<br><br>🌱 I’m currently learning Node Js<br><br>👯 I’m looking to collaborate on React Projects<br><br>👨‍💻 My portfolio is available at https://nikhitkumar.netlify.app/<br><br>📫 How to reach me nikhitkumar00@gmail.com</p>
 
-###
+<div align="right">
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300" ">
+</div>
 
-<h2 align="left">🛠 Language and tools</h2>
+<h2 align="left">🛠 Language and tools</h2><br>
 
 ###
 
@@ -95,24 +97,26 @@
   <img src="https://skillicons.dev/icons?i=sass" height="50" alt="sass logo"  />
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=vite" height="50" alt="vite logo"  />
-</div>
+</div><br>
 
 ###
 
-<h2 align="left">🔥   My Stats </h2>
+<h2 align="left">🔥   My Stats </h2><br>
 
 ###
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" height="250" />
-  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nikhitkumar00&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=github_dark&hide_border=true&order=2" height="250" alt="languages graph" /> 
   <br>
   <img src="https://streak-stats.demolab.com?user=nikhitkumar00&locale=en&mode=weekly&theme=github_dark&hide_border=true&border_radius=5&date_format=M j[, Y]&order=3" height="250" alt="streak graph"  />
-</div>
+  <br>
+  <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" height="250" />
+  <br>
+  </div>
 
 ###
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
 ###
+<div align="center"><img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" /></div>
