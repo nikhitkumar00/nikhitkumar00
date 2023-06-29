@@ -116,7 +116,9 @@
 
 ###
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" /><br>
+
+![Snake animation](https://github.com/nikhitkumar00/nikhitkumar00/blob/output/github-contribution-grid-snake.svg)
 
 ###
 <div align="center"><img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" /></div>
