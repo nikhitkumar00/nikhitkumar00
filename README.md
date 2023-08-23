@@ -111,14 +111,5 @@
   <img src="https://streak-stats.demolab.com?user=nikhitkumar00&locale=en&mode=weekly&theme=github_dark&hide_border=true&border_radius=5&date_format=M j[, Y]&order=3" height="250" alt="streak graph"  />
   <br>
 </div>
-
-###
-
-
-![Snake animation](https://github.com/nikhitkumar00/nikhitkumar00/blob/output/github-contribution-grid-snake.svg)
-
-<br><br>
-
-###
 <div align="center"><img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" /></div><br><br>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" /><br>
