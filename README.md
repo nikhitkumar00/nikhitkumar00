@@ -35,7 +35,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on INVO - V2<br><br>🌱 I’m currently learning Next Js<br><br>👯 I’m looking to collaborate on React Projects<br><br>👨‍💻 My portfolio is available at https://nikhitkumar.netlify.app/<br><br>📫 How to reach me nikhitkumar00@gmail.com</p>
+<p align="left">🔭 I’m currently working on INVO - V2<br><br>🌱 I’m currently learning Next Js<br><br>👯 I’m looking to collaborate on React Projects<br><br>👨‍💻 My portfolio is available at https://nikhitkumar.netlify.app/<br><br>📫 How to reach me <a href="mailto:nikhitkumar00@gmail.com">nikhitkumar00@gmail.com</a></p>
 
 <div align="right">
 <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300" ">
